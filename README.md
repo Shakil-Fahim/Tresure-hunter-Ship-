@@ -1,2 +1,2 @@
 # Tresure-hunter-Ship-
-**Treasure Hunt**: Navigate a 5x5 ocean grid with your ship (🚢) to find treasure (💰) across three levels. Dodge islands (🏝️), move through water (🌊), and reach the goal in minimal moves!
+****Treasure Hunt** is a text-based adventure game where players navigate a 5x5 ocean grid using their ship (🚢) to find hidden treasure (💰). Featuring three progressively challenging levels, each with unique island (🏝️) layouts and treasure placements, players move through water (🌊) using simple up/down/left/right commands. The goal is to reach the treasure in as few moves as possible, with the option to quit at any time. Test your navigation skills across multiple levels in this engaging, emoji-driven quest!
